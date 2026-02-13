@@ -1,0 +1,7 @@
+{
+  "name": "TRIP IT",
+  "description": "A luxury curated travel companion for a honeymoon in Vietnam, featuring expense tracking, itinerary management, and real-time translation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "appId": "com.honeymoon.vietnam2026",
+  "appName": "Vietnam 2026",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
